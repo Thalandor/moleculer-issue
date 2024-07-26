@@ -1,5 +1,3 @@
-// https://moleculer.services/docs/0.14/moleculer-repl.html
-      
 const { createReadStream } = require('fs');
 const { ServiceBroker } = require('moleculer');
 const broker = new ServiceBroker({
