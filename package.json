@@ -1,0 +1,12 @@
+{
+  "name": "moleculer-issue",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moleculer": "0.15.0-beta1",
+    "nats": "^2.16.0"
+  }
+}
